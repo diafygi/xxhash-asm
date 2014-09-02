@@ -11,7 +11,7 @@ allocation and emscripten Module.ccall nonsense.
 
 ###Demo
 
-https://diafygi.github.io/xxhash-asm/demo.html
+https://diafygi.github.io/xxhash-asm/
 
 ###How to use
 
